@@ -15,3 +15,7 @@ This is the original website that the firmware was released on: https://stadia.g
 ## TODO:
 - [ ] Add in a way to be able to self-server this without needing the flag.
 - [ ] Find the files `gotham_dvt_a_dev_signed.bin`, `gotham_dvt_a_stage_signed.bin` and `gotham_pvt_a_prod_signed.bin` since these are referenced and are the WiFi-based firmware.
+
+## Special Thanks.
+
+A massive thank you to the creators of Stadia, © 2019-2023 Google, for this excellent service - it will be missed. So long and thanks for all the fish.
