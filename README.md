@@ -6,6 +6,12 @@ The reason for creating this is so that the tool can be preserved long after the
 
 Please note: For this to work you do need to run chrome with the flags `--allow-file-access-from-files` because of a CORS error.
 
+## Getting started
+- Make sure to run chrome with the flag above.
+- Download the repo so that you have all the files.
+- Go into the controller folder and look for the `index*.html` for your region/language e.g. `index_en_GB.html` is English (UK).
+- Follow the steps on-screen. There is also a video of the whole process below (no commentary just music).
+
 ## Video
 I created a video of the original process as it was live on the stadia website: https://www.youtube.com/watch?v=4iCb1uG145Y
 
