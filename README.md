@@ -2,7 +2,7 @@
 
 ## About
 This is a local copy of the Stadia bluetooth update tool.
-The reason for creating this is so that the tool can be preserved long after the site is removed in December 2023.
+The reason for creating this is so that the tool can be preserved long after the site is removed on December 31, 2024.
 
 Please note: For this to work you do need to run chrome with the flags `--allow-file-access-from-files` because of a CORS error.
 
